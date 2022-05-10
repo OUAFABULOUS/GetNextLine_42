@@ -1,8 +1,0 @@
-H…	a.out	9
-Mmain	main.c	/^int main(int argc, char const *argv[])$/
-b_buff_to_line	main.c	/^char *b_buff_to_line(char **str)$/
-eol_n	main.c	/^int eol_n(char *str)$/
-ft_strjoin	main.c	/^char *ft_strjoin(char *str1, char *str2)$/
-ft_strlen	main.c	/^int ft_strlen(char *str)$/
-ft_strndup	main.c	/^char *ft_strndup(char *str, int n)$/
-get_next_line	main.c	/^char *get_next_line(int fd)$/
